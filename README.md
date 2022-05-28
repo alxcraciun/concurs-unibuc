@@ -1,1 +1,1 @@
-# concurs-unibuc
+# Concurs Unibuc
